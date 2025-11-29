@@ -13,3 +13,5 @@ numpy==2.1.3
 
 # Optional but recommended
 python-dotenv==1.0.1   # for loading .env files
+
+python-multipart==0.0.9
